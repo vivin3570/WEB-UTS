@@ -83,8 +83,8 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Kelas MI-M1801</a>
-                    <a href="https://laracasts.com">Tugas</a>
+                    <a href="https://laravel.com/docs">Npm 1802004</a>
+                    <a href="https://laracasts.com">kelas MI-M1801</a>
                     <a href="https://laravel-news.com">Buku</a>
                     <a href="https://web.facebook.com/vivin357zebua">Profil</a>
                     <a href="http://stmik-budidarma.ac.id/">Kampus</a>
